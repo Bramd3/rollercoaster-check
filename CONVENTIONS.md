@@ -1,2 +1,2 @@
 * Alle variabelen in het Engels
-* Altijd dubbele quotes gebruiken
+* Altijd dubbele quotes gebruike
